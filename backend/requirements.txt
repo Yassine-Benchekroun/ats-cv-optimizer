@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+instructor
+openai
+pydantic
+Jinja2
+xhtml2pdf
+pdfplumber
+python-docx
+fpdf2

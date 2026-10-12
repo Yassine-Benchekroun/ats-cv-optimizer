@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+backend/venv/
+frontend/venv/
+env/
+.env
+
+# Python cache and temporary files
+__pycache__/
+*/__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Generated resume output files & temporary documents
+*.pdf
+tailored_*.pdf
+*.docx
+temp/
+tmp/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
